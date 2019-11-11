@@ -1,0 +1,2 @@
+https://code.visualstudio.com/docs/python/tutorial-django
+https://github.com/microsoft/Git-Credential-Manager-for-Windows/releases/tag/v1.14.0
